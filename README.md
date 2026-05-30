@@ -1,4 +1,4 @@
-📋 Project 4: Form Design & Validation
+📋 Task 4: Form Design & Validation
  
 📌 About
 A fully interactive Registration Form built with React.js. It validates every field in real-time using custom JavaScript logic following the Input-Process-Output (IPO) model — user types (Input), validation runs (Process), error or success message appears (Output).
