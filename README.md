@@ -15,8 +15,8 @@ Dark glassmorphism UI
 🚀 How to Run
 # 1. Install the project folder from github in zip and then extract the project folder.open that folder with VS Code Editor.
 
-# 2. Install packages and run
+# 2. Install packages through command:
 npm install
  
-# 3 and run
+# 3 And run through command :
 npm run dev
